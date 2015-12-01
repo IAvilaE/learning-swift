@@ -61,3 +61,23 @@ for var i = 1; i <= 20; i++ {
     
     print("\(i). \(speed), \(status)")
 }
+
+
+
+struct Libro {
+    
+    let paginas : Int? = nil
+    
+}
+
+struct Plumon {
+    
+    let color : String = "Azul"
+    
+}
+
+struct Vaso {
+    
+    let capacidad : Int = 100
+    
+}
